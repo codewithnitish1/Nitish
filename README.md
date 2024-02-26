@@ -1,6 +1,7 @@
-<div style="max-width: 100%; max-height: 100vh; background-image: url('https://github.com/codewithnitish1/Nitish/blob/main/Banner.png?raw=true'); background-position: center; background-repeat: no-repeat; background-size: cover;"><h1 align="center">Hi 👋, I'm Nitish Kushwaha</h1>
+![logo]()
+<h1 align="center">Hi 👋, I'm Nitish Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3></div>
-<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="codewithnitish"  style="width: 400px; border-radius: 50%; float: right;" >
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="codewithnitish"  width="400px" align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithnitish1&label=Profile%20views&color=0e75b6&style=flat" alt="codewithnitish1" /> </p>
 
