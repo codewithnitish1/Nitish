@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/codewithnitish1/Nitish/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner2.png)
 <h1 align="center">Hi 👋, I'm Nitish Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3></div>
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="codewithnitish"  width="400px" align="right" >
